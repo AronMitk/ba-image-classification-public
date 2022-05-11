@@ -1,0 +1,103 @@
+{
+  "batch_size": 8,
+  "img_height": 512,
+  "img_width": 512,
+  "trainings": [
+    {
+      "area": "LTVLN1",
+      "input_path": "/Users/arnasmitkevicius/Documents/DATASET_V2_SORT",
+      "use_labels": [
+        "LTVLN1_12",
+        "NO_OBJECT"
+      ],
+      "to_train": false
+    },
+    {
+      "area": "LTVLN2",
+      "input_path": "/Users/arnasmitkevicius/Documents/DATASET_V2_SORT",
+      "use_labels": [
+        "LTVLN2_1",
+        "LTVLN2_2",
+        "LTVLN2_4",
+        "NO_OBJECT"
+      ],
+      "to_train": false
+    },
+    {
+      "area": "LTVLN3",
+      "input_path": "/Users/arnasmitkevicius/Documents/DATASET_V2_SORT",
+      "use_labels": [
+        "LTVLN3_5",
+        "NO_OBJECT"
+      ],
+      "to_train": false
+    },
+    {
+      "area": "LTVLN4",
+      "input_path": "/Users/arnasmitkevicius/Documents/DATASET_V2_SORT",
+      "use_labels": [
+        "LTVLN4_3",
+        "NO_OBJECT"
+      ],
+      "to_train": false
+    },
+    {
+      "area": "LTVLN5",
+      "input_path": "/Users/arnasmitkevicius/Documents/DATASET_V2_SORT",
+      "use_labels": [
+        "LTVLN5_9",
+        "LTVLN5_10",
+        "NO_OBJECT"
+      ],
+      "to_train": false
+    },
+    {
+      "area": "LTVLN6",
+      "input_path": "/Users/arnasmitkevicius/Documents/DATASET_V2_SORT",
+      "use_labels": [
+        "LTVLN6_8",
+        "NO_OBJECT"
+      ],
+      "to_train": false
+    },
+    {
+      "area": "LTVLN7",
+      "input_path": "/Users/arnasmitkevicius/Documents/DATASET_V2_SORT",
+      "use_labels": [
+        "LTVLN7_7",
+        "LTVLN7_11",
+        "NO_OBJECT"
+      ],
+      "to_train": false
+    },
+    {
+      "area": "LTVLN8",
+      "input_path": "/Users/arnasmitkevicius/Documents/DATASET_V2_SORT",
+      "use_labels": [
+        "LTVLN8_6",
+        "NO_OBJECT"
+      ],
+      "to_train": false
+    },
+    {
+      "area": "ALL",
+      "input_path": "/Users/arnasmitkevicius/Documents/DATASET_V2_SORT",
+      "use_labels": [
+        "LTVLN1_12",
+        "LTVLN2_1",
+        "LTVLN2_2",
+        "LTVLN2_4",
+        "LTVLN3_5",
+        "LTVLN4_3",
+        "LTVLN5_9",
+        "LTVLN5_10",
+        "LTVLN6_8",
+        "LTVLN7_7",
+        "LTVLN7_11",
+        "LTVLN8_6",
+        "NO_OBJECT"
+      ],
+      "to_train": true
+    }
+  ]
+}

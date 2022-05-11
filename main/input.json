@@ -1,0 +1,17 @@
+{
+  "batch_size": 8,
+  "img_height": 256,
+  "img_width": 256,
+  "trainings": [
+   {
+      "area": "LTVLN2",
+      "input_path": "/Users/arnasmitkevicius/Documents/DATASET_V2_SORT",
+      "use_labels": [
+        "LTVLN2_1",
+        "LTVLN2_2",
+        "LTVLN2_4",
+        "NO_OBJECT"
+      ]
+    }
+  ]
+}
